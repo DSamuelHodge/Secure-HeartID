@@ -66,11 +66,11 @@ const ECGAuthDiagram = () => {
       <div className="mb-8">
         <div className="flex items-center justify-between mb-4">
           <div>
-            <h1 className="text-3xl font-bold text-gray-900 mb-2">ECG-ID Authentication System</h1>
+            <h1 className="text-3xl font-bold text-gray-900 mb-2">SECURE HEART-ID Authentication System</h1>
             <p className="text-gray-600">Developer Architecture & Data Flow</p>
           </div>
           <a
-            href="/ECG ID authentication system.pdf"
+            href="/Secure-HeartID/ECG ID authentication system.pdf"
             download="ECG ID authentication system.pdf"
             className="flex items-center gap-2 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-semibold transition-colors shadow-md hover:shadow-lg"
           >
